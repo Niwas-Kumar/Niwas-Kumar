@@ -1,26 +1,20 @@
 <h1 align="center">Hi 👋, I'm Niwas Kumar</h1>
-<h3 align="center">💻 Java Developer | Passionate about Learning and Building Backends</h3>
+<h3 align="center">💻 Java Developer | Passionate about Learning and Backend Engineering</h3>
 
 ---
 
 ### 🚀 About Me
 - 🔭 I’m currently working on Java Spring Boot projects  
 - 🌱 Exploring Data Structures, APIs, and System Design  
-- 💬 Ask me anything about Java or backend development  
-- 🎯 Goal: Commit code daily and grow consistently  
-- ⚡ Fun fact: I love solving bugs more than creating features 😄
+- 💬 Ask me anything about Java, Spring, or REST APIs  
+- 🎯 Goal: Push code daily, grow consistently, and give back  
+- ⚡ Fun fact: I debug more than I breathe 😄
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,postman,vscode" />
 </p>
 
 ---
@@ -40,19 +34,19 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-
-
-### 📅 100 Days of Code Challenge
-<p align="center">
-  <img src="https://img.shields.io/badge/-100DaysOfCode-black?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=niwas-kumar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 📫 Connect with Me
+
+
+### 🌐 Connect With Me & DSA Practice
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="https://www.linkedin.com/in/niwas-kumar-261ab5253?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvpenSw%2FYSWmnksnt8yesDA%3D%3D">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/niwas-kumar-261ab5253/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Niwas_1/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
