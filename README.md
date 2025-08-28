@@ -23,22 +23,30 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Niwas-Kumar&show_icons=true&theme=radical" alt="Niwas-Kumar GitHub stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niwas-Kumar&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Niwas-Kumar&theme=radical" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niwas-Kumar&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
 <!-- Snake Game Repo View -->
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=niwas-kumar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <!-- Primary Trophy Image -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Niwas-Kumar&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
+  <br/>
+  <!-- Fallback Badge -->
+  <img src="https://img.shields.io/badge/Trophies-Fetched%20from%20GitHub-blue?style=for-the-badge&logo=github" alt="Trophies Badge"/>
+</p>
 
-
+---
 
 ### 🌐 Connect With Me & DSA Practice
 <p align="left">
