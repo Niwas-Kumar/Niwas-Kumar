@@ -37,13 +37,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Activity Graph
 <p align="center">
-  <!-- Primary Trophy Image -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Niwas-Kumar&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
-  <br/>
-  <!-- Fallback Badge -->
-  <img src="https://img.shields.io/badge/Trophies-Fetched%20from%20GitHub-blue?style=for-the-badge&logo=github" alt="Trophies Badge"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niwas-Kumar&theme=radical&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
@@ -54,17 +50,4 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/Niwas_1/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-</p>
-
----
-
-### ✨ Quote I Live By
-> “First, solve the problem. Then, write the code.” — John Johnson
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Niwas-Kumar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="
