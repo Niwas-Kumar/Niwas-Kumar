@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on Java Spring Boot projects  
-- 🌱 Exploring Data Structures, APIs, and System Design  
-- 💬 Ask me anything about Java, Spring, or REST APIs  
+- 🔭 Currently working on **Java Spring Boot projects**  
+- 🌱 Exploring **Data Structures, APIs, and System Design**  
+- 💬 Ask me anything about **Java, Spring, or REST APIs**  
 - 🎯 Goal: Push code daily, grow consistently, and give back  
-- ⚡ Fun fact: I debug more than I breathe 😄
+- ⚡ Fun fact: *I debug more than I breathe* 😄  
 
 ---
 
@@ -32,7 +32,7 @@
 
 <!-- Snake Game Repo View -->
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -50,4 +50,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/Niwas_1/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
