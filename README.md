@@ -23,9 +23,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Niwas-Kumar&show_icons=true&theme=radical" alt="Niwas-Kumar GitHub stats"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Niwas-Kumar&theme=radical" alt="GitHub Streak"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niwas-Kumar&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Niwas-Kumar&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
