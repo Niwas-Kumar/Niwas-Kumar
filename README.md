@@ -53,18 +53,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Niwas-Kumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=C9D1D9" alt="Niwas Kumar GitHub Stats" height="180"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niwas-Kumar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400&bg_color=0D1117&title_color=F75C7E&text_color=C9D1D9" alt="Top Languages" height="180"/>
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Niwas-Kumar&theme=tokyonight&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E&stroke=F75C7E" alt="GitHub Streak Stats" width="55%"/>
@@ -72,10 +61,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Productive Time Card
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Niwas-Kumar&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <a href="https://github.com/Niwas-Kumar">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niwas-Kumar&theme=tokyonight&utcOffset=5.5" alt="Niwas Kumar Productive Time" width="40%" />
+</a>
 </div>
 
 ---
@@ -113,7 +104,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode"/>
   </a>
   &nbsp;
-  <a href="mailto:niwaskumar@example.com" target="_blank">
+  <a href="mailto:niwask166@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
   </a>
 </div>
