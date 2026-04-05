@@ -54,13 +54,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niwas-Kumar&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;bg_color=0D1117&amp;title_color=F75C7E&amp;icon_color=F75C7E&amp;text_color=C9D1D9" alt="Niwas Kumar GitHub Stats" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niwas-Kumar&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F75C7E&amp;text_color=C9D1D9" alt="Top Languages" height="180"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Niwas-Kumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=C9D1D9" alt="Niwas Kumar GitHub Stats" height="180"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niwas-Kumar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400&bg_color=0D1117&title_color=F75C7E&text_color=C9D1D9" alt="Top Languages" height="180"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Niwas-Kumar&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=F75C7E&amp;fire=F75C7E&amp;currStreakLabel=F75C7E" alt="GitHub Streak Stats" width="55%"/>
+  <img src="https://streak-stats.demolab.com/?user=Niwas-Kumar&theme=tokyonight&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E&stroke=F75C7E" alt="GitHub Streak Stats" width="55%"/>
 </div>
 
 ---
@@ -68,7 +75,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Niwas-Kumar&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=7&amp;margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Niwas-Kumar&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </div>
 
 ---
