@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Niwas%20Kumar&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Backend%20Engineer%20%7C%20Java%20%26%20Spring%20Boot%20Developer&amp;descAlignY=55&amp;descSize=18" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Niwas%20Kumar&amp;fontSize=60&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Backend%20Engineer%20%7C%20Java%20and%20Spring%20Boot%20Developer&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=28&amp;duration=3000&amp;pause=800&amp;color=F75C7E&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Hi+%F0%9F%91%8B%2C+I'm+Niwas+Kumar!;Java+%7C+Spring+Boot+Developer;Backend+Engineer+%7C+API+Craftsman;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
